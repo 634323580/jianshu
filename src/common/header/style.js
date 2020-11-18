@@ -8,7 +8,7 @@ export const HeaderWrapper = styled.div`
   box-shadow: 0 2px 10px rgba(0,0,0,.05);
   z-index: 100;
 `
-export const Logo = styled.a`
+export const Logo = styled.div`
   position: absolute;
   top: 0;
   left: 0;
